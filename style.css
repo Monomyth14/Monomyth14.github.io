@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(76, 5, 5);
+    color: white;
+    font-family: 'Courier New', monospace;
+}
+.container{
+    display: flex;
+    align-items: center;
+    gap: 50px
+}
+.aboutme {
+    margin-left: auto;
+    text-align: justify;
+    justify-content: right;
+    flex: 1;
+
+}
+
+.mypic {
+    width: 550px;
+    display: block;
+    height: auto;
+}
